@@ -1,0 +1,11 @@
+[Files]
+application database = appdb
+
+[Text]
+dummy text = no
+command line output = yes
+
+[Images]
+appdb images = yes
+missing images replacement theme = classic
+

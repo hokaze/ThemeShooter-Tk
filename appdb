@@ -1,0 +1,18 @@
+[Text]
+title1 = BootMii Config Editor
+description1 = Edit bootmii settings
+title2 = Homebrew Browser
+description2 = Browse homebrew apps
+title3 = Snes9x GX
+description3 =Super Nintendo Emulator
+title4 = WiiDoom
+description4 =DOOM for the Wii
+title5 = WiiMC
+description5 = Wii Media Player
+
+[Images]
+image1 = bootmii_config.png
+image2 = hb_browse.png
+image3 = snes9xgx.png
+image4 = wiidoom.png
+image5 = wiimc.png

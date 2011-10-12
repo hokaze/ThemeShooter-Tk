@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<theme version="1">
+	<description>HBC Classic by drmr</description>
+	<font_color>
+		<red>12</red>
+		<green>56</green>
+		<blue>105</blue>
+		<alpha>255</alpha>
+	</font_color>
+	<progress_gradient>
+		<upper_left>
+			<red>131</red>
+			<green>194</green>
+			<blue>214</blue>
+			<alpha>229</alpha>
+		</upper_left>
+		<upper_right>
+			<red>131</red>
+			<green>194</green>
+			<blue>214</blue>
+			<alpha>229</alpha>
+		</upper_right>
+		<lower_right>
+			<red>12</red>
+			<green>56</green>
+			<blue>105</blue>
+			<alpha>229</alpha>
+		</lower_right>
+		<lower_left>
+			<red>12</red>
+			<green>56</green>
+			<blue>105</blue>
+			<alpha>229</alpha>
+		</lower_left>
+	</progress_gradient>
+</theme>
+
